@@ -1,3 +1,7 @@
+body{
+    background-image: url('bg.jpg');
+    margin: 0px;
+}
 header{
     background-color: goldenrod;
 }
@@ -22,11 +26,16 @@ p {
     font-size: 23px;
     padding:  20px;
     line-height: 30px;
+    width: 450px;
 }
 
 ul{
     font-size: 18px;
     margin-left: 20px;
+}
+
+td{
+    padding-right: 100px;
 }
 
 footer{
@@ -44,5 +53,9 @@ footer td{
     padding-right: 70px;
 }
 footer div{
-    margin-left: 250px;
+    margin-left: 420px;
+}
+
+.foto{
+    margin-left: 40px;
 }
